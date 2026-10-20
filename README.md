@@ -203,5 +203,5 @@ La navegación se construye con `rememberNavController`, que crea el controlador
 
 ## 9. Autor
 
-**[Nombre completo]**
+Giancarlo Burbano Urbano 
 Asignatura: Aplicativos Móviles
